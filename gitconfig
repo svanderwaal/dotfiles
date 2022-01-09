@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = svanderwaal@hotmail.com
+	name = Sarah van der Waal
